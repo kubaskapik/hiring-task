@@ -1,4 +1,4 @@
-# Zpracování Dat z API
+# Zpracování Dat z API (v Pythonu)
 
 ## Zadání
 
